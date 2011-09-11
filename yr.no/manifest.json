@@ -1,0 +1,12 @@
+{
+  "name": "yr.no",
+  "version": "0.1",
+  "description": "Weather forecast from yr.no",
+  "browser_action": {
+    "default_icon": "yr.gif"
+    ,"popup": "popup.html"
+  },
+  "permissions": [
+    "http://www.yr.no/",
+  ]
+}
